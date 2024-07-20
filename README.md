@@ -1,7 +1,5 @@
 # Percolation-Simulation
 
-# Percolation Simulation README
-
 ## Overview
 
 This project provides a simulation of the Percolation Problem, where we determine the percentage of open squares required to achieve connectivity from the top to the bottom of a grid. This simulation uses a union-find data structure to manage connectivity and a custom bit array to track open/closed squares.
